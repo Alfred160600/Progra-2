@@ -1,0 +1,76 @@
+body {
+    text-align: center;
+    background-color: #283149;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #eeeeee;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #f2a154;
+
+}
+
+footer {
+    color: #eeeeee;
+    font-family: sans-serif;
+}
+
+.w {
+    background-image: url('../imagenes/crash.png');
+}
+
+.a {
+    background-image: url('../imagenes/kick-bass.png');
+}
+
+.s {
+    background-image: url('../imagenes/snare.png');
+}
+
+.d {
+    background-image: url('../imagenes/tom1.png');
+}
+
+.j {
+    background-image: url('../imagenes/tom2.png');
+}
+
+.k {
+    background-image: url('../imagenes/tom3.png');
+}
+
+.l {
+    background-image: url('../imagenes/tom4.png');
+}
+
+.x {
+    background-image: url('../imagenes/sonidog.png');
+}
+
+.bateria {
+    margin: 5% auto;
+}
+
+.presionado {
+    box-shadow: 0 3px 4px 0 #eeeeee;
+    opacity: 0.5;
+}
+
+
+.instrumento {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 4rem;
+    font-family: 'Arvo', cursive;
+    font-weight: 900;
+    color: #f2a154;
+    text-shadow: 3px 0 #dbdbf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
